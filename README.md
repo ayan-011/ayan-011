@@ -37,3 +37,5 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,express,react,postman,nextjs,tailwind,html,css," alt="Tech Stack" />
 </p>
 
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
