@@ -19,7 +19,7 @@
     <b>  Reach me at: </b>  <br>
       
      
- <a href="https://www.linkedin.com/in/ayan-saifi-782505319/" target="_blank"  rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://instagram.com/your_username"><img
+ <a href="https://www.linkedin.com/in/ayaan-saifi-782505319/" target="_blank"  rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.instagram.com/ayaan_saifi__1/"><img
     src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg"
     alt="Instagram"
     width="40"
@@ -32,7 +32,7 @@
     width="40"
     height="40"
     style="margin: 0 8px;"
-  /></a> <a href="https://api.whatsapp.com/send/?phone=919899729915&text&type=phone_number&app_absent=0" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZfSkjDwHGWVNhrcPZtGgcWRmJZscZtvhFBqwDNjJrrgKKWdPxvvvMhSvSZnrkTTbhcTdB"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://ayaan-saifi.onrender.com/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a> 
+  /></a> <a href="https://api.whatsapp.com/send/?phone=919899729915&text&type=phone_number&app_absent=0" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQHbqCrBqqWjfgpVwGNqpHkCkSfHmvWVrBsXCRprbqphrwkKnMxSXJTdMxwDmMzPmmMVQ"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://ayaan-saifi.onrender.com/"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a> 
  
   </div>
 </div>
