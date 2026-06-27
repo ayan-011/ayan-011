@@ -7,7 +7,10 @@
  
 
 <div style="display: flex; align-items: flex-start; justify-content: end;">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="350" />
+    <img  align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzluaHhoZGo3c2ppanNnMWQ5d2pncHl3cHN1OHp5bmJlbms1bzBtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3H3U0fsmRfUY/giphy.webp" alt="Centered GIF">
+  <!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="350" /> -->
+  
+ 
   <div style="max-width: calc(100% - 420px);">
     <h3>About me:</h3>
    <p>
