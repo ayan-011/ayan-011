@@ -1,9 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ayaan%20Saifi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20|%20Designer%20|%20Learning%20Skills&descSize=18&descAlignY=55"
     width="100%"
   />
-</p>
+</p> -->
  
 
 <div style="display: flex; align-items: flex-start; justify-content: end;">
