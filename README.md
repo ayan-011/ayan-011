@@ -15,7 +15,7 @@
     <h3>About me:</h3>
    <p>
   • I’m currently focusing on <b>Building</b> <br>
-  • All of my projects are available on <a href="https://github.com/ayan-011">GitHub</a>
+  • All of my projects are available on Github
 </p>
     
    </p>
@@ -53,7 +53,7 @@
 
 ### Languages & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,mongodb,express,react,postman,postgresql,nextjs,tailwind,git,vscode,html,css," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,postgresql,docker,prisma,mongodb,express,postman,tailwind,git,vscode,html," alt="Tech Stack" />
 </p>
 
 
