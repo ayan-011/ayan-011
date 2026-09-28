@@ -7,31 +7,19 @@
  
 
 <div style="display: flex; align-items: flex-start; justify-content: end;">
-    <img  align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzluaHhoZGo3c2ppanNnMWQ5d2pncHl3cHN1OHp5bmJlbms1bzBtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3H3U0fsmRfUY/giphy.webp" alt="Centered GIF">
-  <!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="350" /> -->
+    <img  align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzluaHhoZGo3c2ppanNnMWQ5d2pncHl3cHN1OHp5bmJlbms1bzBtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3H3U0fsmRfUY/giphy.webp" alt="Centered GIF"> 
+     
   
  
   <div style="max-width: calc(100% - 420px);">
     <h3>About me:</h3>
    <p>
-  • I’m currently focusing on <b>Building</b> <br>
+  • I’m currently focusing on <b>Building</b> <br> 
   • All of my projects are available on Github
 </p>
-    
-   </p>
-   <span style="font-size: 14px;"><b>Reach me at:</b></span>
-   <br>
-      
      
- <a href="https://www.linkedin.com/in/ayaan-saifi-782505319/" target="_blank"  rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="20" height="20" style="margin: 0 8px;"/></a> <a href="https://www.instagram.com/ayaan_saifi__1/"><img
-    src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg"
-    alt="Instagram"
-    width="20"
-    height="20"
-    style="margin: 0 8px;"
-  /></a>  <a href="https://api.whatsapp.com/send/?phone=919899729915&text&type=phone_number&app_absent=0" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="20" height="20" style="margin: 0 8px;"/></a> 
-  
-  
+   <br/> 
+      <br/> 
  
   </div>
  <a href="https://ayaans-portfolio.onrender.com/"  
@@ -40,6 +28,8 @@
    Portfolio
  </a>
 </div>
+
+  
 
  ##
 
