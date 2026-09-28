@@ -17,21 +17,16 @@
   • I’m currently focusing on <b>Building</b> <br> 
   • All of my projects are available on Github
 </p>
-     
-   <br/> 
+  </div>
+  <br/> 
       <br/> 
        <br/> 
-      
- 
-  </div>
  <a href="https://ayaans-portfolio.onrender.com/"  
    target="_blank"
    rel="noopener noreferrer">
    Portfolio
  </a>
 </div>
-
-  
 
  ##
 
