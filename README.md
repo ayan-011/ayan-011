@@ -7,7 +7,7 @@
  
 
 <div style="display: flex; align-items: flex-start; justify-content: end;">
-<img align="right" width="200" src="./assets/animation.gif" alt="Animated GIF" />  
+<img align="right" width="200" src="./assets/spiderman.gif" alt="Animated GIF" />  
   
   <!-- <img  align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzluaHhoZGo3c2ppanNnMWQ5d2pncHl3cHN1OHp5bmJlbms1bzBtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3H3U0fsmRfUY/giphy.webp" alt="Centered GIF">  -->
 
