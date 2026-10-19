@@ -7,7 +7,7 @@
  
 
 <div style="display: flex; align-items: flex-start; justify-content: end;">
-<img align="right" width="350" src="g%20Skills&descSize=18&descAlignY=55"https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ5OWVraHpmNnloN2d1ZGFwYmJqbThtZTVwazJjcGJlZXBkcXRyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ePOR0lVD44HSASgOdw/giphy.gif" alt="Animated GIF" />  
+<img align="right" width="350" src="/assets/spiderman.gif" />  
   
   <!-- <img  align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzluaHhoZGo3c2ppanNnMWQ5d2pncHl3cHN1OHp5bmJlbms1bzBtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3H3U0fsmRfUY/giphy.webp" alt="Centered GIF">  -->
 
